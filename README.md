@@ -150,3 +150,7 @@ Se possível:
 ------------
 
 Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+
+Subi o código no meu perfil para documentar as exceptions personalizadas que criei em cima do exemplo em aula.
+
+Segue o perfil no GitHub da criadora do conteúdo: https://github.com/cami-la
